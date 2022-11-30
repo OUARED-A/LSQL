@@ -1,5 +1,5 @@
-# Learn SQL Application - SQL برنامج تعلم لغة الإستعلام
-Desktop application :computer: to help teacher 👨‍🏫  in practical work (TP) to evaluate the student 👨‍🎓.
+# Learning analytics solution for monitoring and analyzing students behavior in SQL lab work 
+Learning analytics dashboard Side to help teacher 👨‍🏫  SQL learning environment Side to assist student 👨‍🎓.
 
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
@@ -105,15 +105,9 @@ Desktop application :computer: to help teacher 👨‍🏫  in practical work (T
 ![screenshot of settings](Screenshots/settings/s4.PNG)
 ![screenshot of settings](Screenshots/settings/s5.PNG)
 
-### Chat
-![screenshot of chat](Screenshots/chat/c.PNG)
-![screenshot of chat 2](Screenshots/chat/c2.PNG)
 
-### About
-![screenshot about](Screenshots/about.PNG)
 
 ## Contributing
 If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.
 If you find any issue just put it in the repository issue section, thank you.
 
-.سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ
