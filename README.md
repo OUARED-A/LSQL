@@ -1,5 +1,4 @@
-# LSQL: Learning analytics solution for monitoring and analyzing the students'
-behavior in SQL lab work 
+# LSQL: Learning analytics solution for monitoring and analyzing the students'behavior in SQL lab work 
 Learning analytics dashboard Side to help teacher 👨‍🏫  SQL learning environment Side to assist student 👨‍🎓.
 
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
