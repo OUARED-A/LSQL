@@ -13,19 +13,6 @@ Learning analytics dashboard Side to help teacher 👨‍🏫  SQL learning envi
 * Password hashed
 *... and more
 
-## Problematic :worried:
-1. Lack of tools to establish a student knowledge base.
-2. Lack of traceability.
-3. We can not judge the efforts of each student (people who work and who doesn't work).
-4. Lack of time to evaluate the student.
-5. Problem of manual entry in practical work.
-
-## Objectives :smiley:
-1. Gives a portable solution and H24 work to gain this understanding.
-2. Automate manual stains.
-3. Archive students essays at the time of TP.
-4. Help the teacher to evaluate the student.
-
 ## Libraries used
 * JFoenix (Material design)
 * ControlsFx (UX)
